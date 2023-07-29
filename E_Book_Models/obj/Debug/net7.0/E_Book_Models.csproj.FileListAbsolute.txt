@@ -1,0 +1,14 @@
+D:\SairaMVC\E_Book_Models\bin\Debug\net7.0\E_Book_Models.deps.json
+D:\SairaMVC\E_Book_Models\bin\Debug\net7.0\E_Book_Models.runtimeconfig.json
+D:\SairaMVC\E_Book_Models\bin\Debug\net7.0\E_Book_Models.dll
+D:\SairaMVC\E_Book_Models\bin\Debug\net7.0\E_Book_Models.pdb
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.csproj.AssemblyReference.cache
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.AssemblyInfoInputs.cache
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.AssemblyInfo.cs
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.csproj.CoreCompileInputs.cache
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.dll
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\refint\E_Book_Models.dll
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.pdb
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\E_Book_Models.genruntimeconfig.cache
+D:\SairaMVC\E_Book_Models\obj\Debug\net7.0\ref\E_Book_Models.dll
